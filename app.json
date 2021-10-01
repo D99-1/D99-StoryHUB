@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "D99 StoryHUB",
+    "slug": "D99_StoryHUB",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./read.png",
+    "splash": {
+      "image": "./read.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./read.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./read.png"
+    }
+  }
+}
